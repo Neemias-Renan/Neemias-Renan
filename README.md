@@ -40,6 +40,7 @@
 
 <div align="center">
   <h3><b>Conhecimentos em</b></h3>
+  <br>
   <img src="conhecimentos.svg">
 </div>
 
