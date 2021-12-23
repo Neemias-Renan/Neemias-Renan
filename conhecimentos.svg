@@ -3,6 +3,7 @@
 <rect x="74" width="51" height="48" fill="url(#pattern1)"/>
 <rect x="148" width="51" height="48" fill="url(#pattern2)"/>
 <rect x="222" width="51" height="48" fill="url(#pattern3)"/>
+<rect x="296" width="51" height="48" rx="1" fill="white"/>
 <rect x="296" width="51" height="48" rx="1" fill="url(#pattern4)"/>
 <rect x="370" width="53" height="50" fill="url(#pattern5)"/>
 <rect x="446" width="51" height="48" fill="url(#pattern6)"/>
