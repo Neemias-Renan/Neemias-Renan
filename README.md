@@ -47,21 +47,7 @@
 ## 
 
 <div align="center">
- <h3><b>Formação Acadêmica</b></h3>
- <div>
-  <br>
-  <div align="left">
-   <p><b>ENSINO TÉCNICO INTEGRADO</b>
-   <p>Técnico em Informática, cursado entre 2017 até 2020, no IFRN, Campus Ceará-Mirim.</p>
-  </div>
-  
-  <div align="right">
-   <p><b>ENSINO SUPERIOR</b>
-   <p>Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFRN, Campus Natal-Central.</p>
-  </div>
- </div>
-</div>
-
+ <img src="formacao.svg">
 <div align="center">
   <a href="https://neemias-renan.github.io/my-portfolio/index.html">Veja meu portfólio</a>
 </div>
