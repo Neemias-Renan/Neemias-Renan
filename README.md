@@ -1,4 +1,4 @@
-![Neemias Renan card name](https://cardivo.vercel.app/api?name=Neemias%20Renan&description=Olá,%20eu%20sou%20um%20programador%20Web%20e%20tenho%2019%20anos.%20É%20um%20prazer%20ter%20você%20aqui.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/69238611?v=4&fontColor=silver)
+![Neemias Renan card name](https://cardivo.vercel.app/api?name=Neemias%20Renan&description=Olá,%20eu%20sou%20um%20programador%20Web.%20É%20um%20prazer%20ter%20você%20aqui.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/69238611?v=4&fontColor=silver)
 <!-- #afafaf -->
 <div align="center" style="display: inline-flex; flex-direction: row;">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Neemias-Renan&theme=github_dark&show_icons=true&custom_title=Estatísticas%20do%20Github">
@@ -26,10 +26,6 @@
   <a href="https://www.linkedin.com/in/neemias-renan-54279b196/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="https://www.youtube.com/channel/UC7tA82I50dBcQacadUFMYeQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
 </div>
 
 <div align="center">
@@ -47,7 +43,7 @@
 ## 
 
 <div align="center">
-      <a href="https://neemias-renan.github.io/my-portfolio/index.html">Veja meu portfólio</a>
+      <a href="https://neemias-renan.github.io/portfolio/index.html">Veja meu portfólio</a>
 </div>
 
 
