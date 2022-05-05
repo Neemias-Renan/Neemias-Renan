@@ -35,14 +35,6 @@
 ## 
 
 <div align="center">
-  <h3><b>Conhecimentos em</b></h3>
-  <br>
-  <img src="conhecimentos.svg">
-</div>
-
-## 
-
-<div align="center">
       <a href="https://neemias-renan.github.io/portfolio/index.html">Veja meu portfólio</a>
 </div>
 
