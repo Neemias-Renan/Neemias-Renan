@@ -1,5 +1,4 @@
-![Neemias Renan card name](https://cardivo.vercel.app/api?name=Neemias%20Renan&description=Olá,%20é%20um%20prazer%20ter%20você%20aqui.%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/69238611?v=4&fontColor=silver)
-<!-- #afafaf -->
+
 <div align="center" style="display: inline-flex; flex-direction: row;">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Neemias-Renan&theme=github_dark&show_icons=true&custom_title=Estatísticas%20do%20Github">
   <img  height="140em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemias-Renan&hide=css&layout=compact&theme=github_dark&&custom_title=Linguagens%20mais%20usadas&langs_count=16">
