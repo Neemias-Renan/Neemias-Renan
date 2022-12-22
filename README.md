@@ -5,8 +5,8 @@
 </div>
 
 <div align="center" style="display: inline-flex; flex-direction: row;">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Neemias-Renan&theme=github_dark&show_icons=true&custom_title=Estatísticas%20do%20Github">
-  <img  height="140em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemias-Renan&hide=css&layout=compact&theme=github_dark&&custom_title=Linguagens%20mais%20usadas&langs_count=16">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Neemias-Renan&theme=transparent&show_icons=true&custom_title=Estatísticas%20do%20Github">
+  <img  height="140em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemias-Renan&hide=css&layout=compact&theme=transparent&&custom_title=Linguagens%20mais%20usadas&langs_count=16">
 </div>
 
 ## 
