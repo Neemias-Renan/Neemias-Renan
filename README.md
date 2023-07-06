@@ -25,9 +25,6 @@
   </a>
 </div>
 
-<div align="center">
- <img height="180em" align="center" src="https://github.com/Neemias-Renan/Neemias-Renan/blob/output/github-contribution-grid-snake.svg">
-</div>
 
 ## 
 
